@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FlexibleUI</string>
+    <string name="select_a_name">Select a name</string>
+    <string name="list_is_scrollable">*List is scrollable*</string>
+
+    <string-array name="titles">
+        <item>AQ</item>
+        <item>Ali</item>
+        <item>Butt</item>
+        <item>Gattu</item>
+        <item>Taki</item>
+        <item>Ali Ilyas</item>
+        <item>Hammad</item>
+        <item>Anas</item>
+        <item>Chaudhry</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Madra Champion</item>
+        <item>Movie Star Champion</item>
+        <item>Muscular Champion</item>
+        <item>Pheena Chamption</item>
+        <item>Lamba Chamption</item>
+        <item>Shugli Chamption</item>
+        <item>5 minute late Chamption</item>
+        <item>Ainak wala Chamption</item>
+        <item>Moochon wala Chamption</item>
+    </string-array>
+</resources>
